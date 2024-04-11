@@ -9,5 +9,8 @@ def add_data():
             my_array[index] = 1
             my_array.append(store_data)
     print(my_array)
+    
+    # for i in range(6, 0, -1):
+    #     print(i)
 
 add_data()
